@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Lang Stat](https://github-readme-stat-dipooktama25.vercel.app/api/top-langs?username=dipooktama&hide=jupyter%20notebook&theme=rose_pine&show_icons=true)](https://github.com/dipooktama)
+[![Github Stat](https://github-readme-stat-dipooktama25.vercel.app/api?username=dipooktama&theme=rose_pine&show_icons=true)](https://github.com/dipooktama)
 [![@dipooktama's Holopin board](https://holopin.io/api/user/board?user=dipooktama)](https://holopin.io/@dipooktama)
